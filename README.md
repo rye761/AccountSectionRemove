@@ -1,0 +1,2 @@
+# AccountSectionRemove
+Xposed Module
